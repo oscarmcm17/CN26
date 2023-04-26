@@ -13,3 +13,5 @@ https://github.com/JorgeFernand0/Computo-en-la-Nube-26-04-2023
 
 
 https://github.com/BartKevin/ComNubClas26-04
+
+https://github.com/scortes4/Computo_en_la_nube26#computo_en_la_nube26 
