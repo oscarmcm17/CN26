@@ -24,3 +24,5 @@ https://github.com/ccernas0/CEN26.git
 https://github.com/julesxd21/NUBE.git
 
 https://github.com/Juan-Fruto
+
+https://github.com/moises-ventura/CLASE2604
