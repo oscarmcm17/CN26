@@ -17,3 +17,5 @@ https://github.com/BartKevin/ComNubClas26-04
 https://github.com/scortes4/Computo_en_la_nube26#computo_en_la_nube26 
 
 https://github.com/4rosario/Computoenlanube
+
+https://github.com/ccernas0/CEN26.git
