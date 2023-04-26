@@ -1,2 +1,2 @@
 
-oa :v
+run('delete system32')
