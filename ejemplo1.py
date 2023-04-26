@@ -1,2 +1,4 @@
 
-run('delete system32')
+Saludo = "Oa :v"
+
+println(Saludo)
