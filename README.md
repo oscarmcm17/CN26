@@ -6,3 +6,5 @@ FAVOR DE AGREGAR SU DIRECCION DEL REPOPSITORIO QUE ESTAN COMPARTIENDO
 # LISTA DE REPOSITORIOS
 
 https://github.com/Jose07Rdz/JGL26
+
+https://github.com/JorgeFernand0/Computo-en-la-Nube-26-04-2023
