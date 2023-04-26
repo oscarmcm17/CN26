@@ -1,4 +1,4 @@
 
 Saludo = "Oa :v"
 
-println(Saludo)
+print(Saludo)
