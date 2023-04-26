@@ -8,7 +8,8 @@ salma estuvo aqui :b
   
 print("Fercho")
 
-Holacompañeros 
-(UwU)
 
 print("esta bien pequeña la de julio")
+
+
+print("Hey compa, que le parece esa morra?")
