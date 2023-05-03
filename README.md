@@ -7,8 +7,7 @@ Oa :v
 uwu
 ñwñ
 # LISTA DE REPOSITORIOS
-
-https://github.com/Jose07Rdz/JGL26
+<a href="https://github.com/Jose07Rdz/JGL26">Jose</a>
 
 https://github.com/JorgeFernand0/Computo-en-la-Nube-26-04-2023
 
