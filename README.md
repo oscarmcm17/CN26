@@ -9,7 +9,7 @@ uwu
 # LISTA DE REPOSITORIOS
 <a href="https://github.com/Jose07Rdz/JGL26" target="_blank">Jose</a>
 
-https://github.com/JorgeFernand0/Computo-en-la-Nube-26-04-2023
+<a href="https://github.com/JorgeFernand0/Computo-en-la-Nube-26-04-2023" target="_blank">Fernando </a>
 
 
 https://github.com/BartKevin/ComNubClas26-04
