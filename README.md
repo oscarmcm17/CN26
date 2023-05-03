@@ -11,6 +11,8 @@ uwu
 
 <a href="https://github.com/JorgeFernand0/Computo-en-la-Nube-26-04-2023" target="_blank">Fernando </a>
 
+<a href="https://github.com/oscarmcm17/computo2" tarjet="_blank">Oscar</a>
+
 
 https://github.com/BartKevin/ComNubClas26-04
 
